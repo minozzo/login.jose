@@ -1,19 +1,23 @@
 body{
-    background-color: gray;
-    font-family: Arial, Helvetica, sans-serif;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    padding: 300px;
-    font-size: 35px;
-    
+    background-color: rgb(63, 63, 63) ;
+    font-family: Arial, Helvetica, sans-serif ;
+    align-items: center ;
+    justify-content: center ;
+    display: flex ;
+    padding: 300px ;
+    font-size: 35px ;
+    color: white ;
 }
 
 input{
-    width: 200px;
-    height: 30px;
+    width: 200px ;
+    height: 30px ;
+    color: black ;
+    border-radius: 5% ;
+    border-color: black ;
 }
 
 input::placeholder{
-    font-size: 20px;
+    font-size: 13px ;
+    color: black ;
 }
