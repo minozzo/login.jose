@@ -4,12 +4,13 @@ body{
     align-items: center ;
     justify-content: center ;
     display: flex ;
-    padding: 300px ;
+    padding: 200px;
     font-size: 35px ;
     color: white ;
 }
 
 input{
+
     width: 200px ;
     height: 30px ;
     color: black ;
@@ -21,3 +22,15 @@ input::placeholder{
     font-size: 13px ;
     color: black ;
 }
+
+.remember-forgot{
+    color: white ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.remember-forgot>input{
+   width: 15px;
+   height: 15px;
+}
+
