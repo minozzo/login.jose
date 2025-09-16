@@ -7,6 +7,7 @@ body{
     padding: 200px;
     font-size: 35px ;
     color: white ;
+    background: url('ceu.jpg') ;
 }
 
 input{
@@ -34,3 +35,15 @@ input::placeholder{
    height: 15px;
 }
 
+button{
+    color: black;
+    border-color: black;
+     padding: 4px;
+}
+
+p{
+    font-size: 15px;
+}
+a{
+    color: rgb(0, 149, 255);
+}
